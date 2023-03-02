@@ -1,27 +1,29 @@
-@font-face {
-    font-family: "LiberationSans";
-    src: url("fonts/LiberationSans-Bold.ttf");
-    font-weight: bold;
-}
+/*
+WIP: Color palette made with Poline
+#196a5f
+#33b8a6
+#fbc5c5
+#ec6f6f
+#ae4133
+#5f2812
+#020000
 
-@font-face {
-    font-family: LiberationSans;
-    src: url(fonts/LiberationSans-Regular.ttf);
-    font-weight: normal;
-}
-
+*/
 body {
-    font-family: LiberationSans, -apple-system, sans-serif;
+    background-color: #dafee8;
+    font-family: 'Yaldevi', -apple-system, sans-serif;
+    color: #020000;
 }
 
 h1, h2, h3 {
-    font-family: LiberationSans, -apple-system, sans-serif;
+    font-family: 'Yaldevi', -apple-system, sans-serif;
     font-weight: bold;
+    color: #196a5f;
 }
 
 
 #content {
-    font-family: LiberationSans, -apple-system, sans-serif;
+    font-family: 'Yaldevi', -apple-system, sans-serif;
     font-weight: normal;
     max-width: 900px;
     margin: 0 auto;
