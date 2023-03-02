@@ -1,0 +1,28 @@
+@font-face {
+    font-family: "LiberationSans";
+    src: url("fonts/LiberationSans-Bold.ttf");
+    font-weight: bold;
+}
+
+@font-face {
+    font-family: LiberationSans;
+    src: url(fonts/LiberationSans-Regular.ttf);
+    font-weight: normal;
+}
+
+body {
+    font-family: LiberationSans, -apple-system, sans-serif;
+}
+
+h1, h2, h3 {
+    font-family: LiberationSans, -apple-system, sans-serif;
+    font-weight: bold;
+}
+
+
+#content {
+    font-family: LiberationSans, -apple-system, sans-serif;
+    font-weight: normal;
+    max-width: 900px;
+    margin: 0 auto;
+}
